@@ -1,4 +1,4 @@
-package utils;
+package org.mariam.practiceautomation.driver;
 
 public enum DriverType {
     CHROME,
